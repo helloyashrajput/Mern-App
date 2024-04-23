@@ -1,0 +1,6 @@
+- API END-POINTS
+  - GET /workouts -> gets all workout documents
+  - POST /workouts -> creates a new workout document
+  - GET /workouts/:id -> get a single workout document
+  - DELETE /workouts/:id -> delete a single workout document
+  - PATCH /workouts/:id -> update a single workout document
